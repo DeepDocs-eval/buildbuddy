@@ -22,7 +22,7 @@ sidebar_label: App
 
 - `remote_execution_api_url` Overrides the default remote execution protocol gRPC address shown by BuildBuddy on the configuration screen. (Does not actually change the server address)
 
-- `default_to_dense_mode` Enables Dense UI mode by default.
+- `remote_exec_api_url` Overrides the default remote execution protocol gRPC address shown by BuildBuddy on the configuration screen. (Does not actually change the server address)
 
 ## Example section
 

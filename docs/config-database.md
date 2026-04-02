@@ -12,7 +12,8 @@ sidebar_label: Database
 
 **Required**
 
-- `data_source` This is a connection string used by the database driver to connect to the database. MySQL, PostgreSQL, and SQLite databases are supported.
+- `driver` The driver to use: one of sqlite3, mysql, or postgresql.
+- `endpoint` Typically the host:port combination or file path for SQLite.
 
 ## Example sections
 
